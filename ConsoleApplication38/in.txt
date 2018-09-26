@@ -1,0 +1,11 @@
+10
+0 red 20 a 0
+1 white 10 v 1
+2 black 5 c 130
+0 red 20 z 10
+1 white 10 x 1
+2 black 5 m 120
+0 red 20 l 30
+1 white 10 cow2 1
+2 black 5 r 130
+2 red 20 k 50
